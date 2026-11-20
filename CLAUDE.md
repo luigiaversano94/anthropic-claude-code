@@ -15,7 +15,7 @@ All'inizio di ogni sessione, agisci secondo il master prompt e riparti dallo sta
 
 Prima di scrivere script o proporre argomenti, leggi `reels/01-brief-cliente.md` e la ricerca più recente in `reels/ricerche/`.
 
-## Stato dei lavori (aggiornato al 19/11/2026)
+## Stato dei lavori (aggiornato al 20/11/2026)
 
 **Fatto:**
 1. Contestualizzazione e brief cliente
@@ -23,6 +23,8 @@ Prima di scrivere script o proporre argomenti, leggi `reels/01-brief-cliente.md`
 3. Ricerca di mercato sul target A "ex sportivo": 18 argomenti, priorità di partenza #8, #12, #3, #1, #9
 4. Analisi del profilo Instagram e proposte di bio (`reels/02-analisi-profilo-ig.md`)
 5. Reel #2 "La mia storia" (bozza v1, dettagli da confermare)
+6. Piano profilo (`reels/03-piano-profilo.md`), audit griglia e Insights (`reels/04-audit-griglia-insights.md`)
+7. **Piano di rilancio di 6 settimane** (`reels/05-piano-rilancio.md`): fondamenta, sequenza DM, struttura dello stress test, test delle sponsorizzazioni, misurazione. È il documento operativo di riferimento.
 
 **Prossimo passo:**
 1. **Analizzare i video del coach** (cartella fornita dall'utente, da copiare in `reels/video-tono/`). Estrarre: ritmo, lunghezza delle frasi, lessico, intercalari, uso dell'ironia, livello di energia, come apre e chiude i video, cosa funziona e cosa no in camera. Salvare l'analisi in `reels/video-tono/analisi-tono.md`.
