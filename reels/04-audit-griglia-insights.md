@@ -72,3 +72,47 @@ Data: 20/11/2026, da screenshot forniti dal coach.
 1. Insights → Contenuti → ordinati per **visualizzazioni**, ultimi 90 giorni (top 10)
 2. Insights → Pubblico: **età e genere**
 3. Insights → Prestazioni: quota di **non follower** raggiunti
+
+---
+
+## Aggiornamento — dati per rendimento e pubblico (20/11/2026)
+
+### Pubblico (ultimi 30 giorni)
+- **Uomini 81%**, donne 19%
+- **25-34: 42,0% · 35-44: 33,9%** → circa il 76% tra 25 e 44 anni
+- 18-24: 8,0% · 45-54: 9,3% · 55-64: 5,0% · 65+: 1,7%
+- Italia 99%
+- Follower: +101 nuovi, +7 netti in 30 giorni (circa 94 persone hanno smesso di seguire). Picco intorno al 4 novembre, poi un lieve calo. Il −232 a 90 giorni si è formato prima di fine ottobre.
+
+**Conclusione:** il pubblico attuale **è già il target**. Non serve un cambio di pubblico, serve concentrare i contenuti su di lui.
+
+### Contenuti per visualizzazioni (periodo dal 23/10 in poi, presumibilmente 30 giorni)
+
+| Contenuto | Visual. | Like | Comm. | Repost | Invii | Lettura |
+|---|---|---|---|---|---|---|
+| "Seguimi sul profilo @luiave…" (Reel, 30/10) | 11K | 59 | 0 | 4 | 0 | Da capire cos'è (Reel di prova? collab?) |
+| "FAT LOSS, il primo Workshop" (28/10) | 8,4K | **98** | **9** | 5 | 5 | **Il miglior coinvolgimento** |
+| "Un anno fa scrivevo che…" (23/10) | 5,8K | 58 | 4 | **8** | 3 | Storia personale |
+| Costumi di Halloween (30/10) | 3,7K | 35 | 0 | 3 | **6** | Intrattenimento, condiviso |
+| Da GTA V a GTA VI | 2,9K | 17 | 0 | 3 | 2 | Trasformazione personale |
+| "Nuovo membro dello staff?" (storia, 09/11) | 2,1K | 35 | — | — | — | 9 risposte |
+| Non hai 2 ore per la palestra? | 2,1K | 17 | 0 | 2 | 0 | |
+| La trasformazione di Mariano | 1,7K | **3** | 0 | 2 | 0 | Vista ma non coinvolge |
+| "9000€ su tela" (storia) | 1,5K | 22 | — | — | 2 | 4 risposte |
+| Veramente bastano 3 ore? | 1,3K | 11 | 0 | 2 | 0 | |
+| Bruciagrassi | 1,1K | 29 | 1 | 3 | 0 | |
+| Accettare il proprio corpo (body positivity) | 1,1K | **1** | 0 | 2 | 0 | **Archiviare** |
+| Perché prendersi cura di sé | 857 | 11 | 0 | 3 | 0 | |
+| Ti alleni 3 volte a settimana (seduto) | 806 | 17 | 0 | 4 | 1 | |
+| Non siamo fatti per vivere così | 803 | 9 | 1 | 2 | 0 | **Archiviare** |
+
+### Schema che emerge
+- **Funziona Luigi come persona** (workshop, "un anno fa", GTA, storie personali) e l'**intrattenimento** (Halloween, GTA).
+- **Rende meno** il contenuto educativo generico con copertina-domanda, il motivazionale, la body positivity.
+- **Le trasformazioni dei clienti** vengono viste ma non generano interazione → raccontarle partendo dalla vita del cliente.
+- **Il workshop dal vivo** è il contenuto con più like e commenti: gli eventi sono un asset (la slide "La truffa del weekend" si collega all'argomento #9).
+
+### Verdetti rivisti
+- **Costumi di Halloween:** non archiviare (3,7K visualizzazioni, 6 invii). La lezione è che l'intrattenimento legato alla cultura pop si diffonde: va riusato, ma collegato all'ex sportivo.
+- **Archiviare:** "Accettare il proprio corpo", "Non siamo fatti per vivere così", "Ogni giorno fai delle scelte".
+- **Rimandare:** "Sei allenatissimo nelle scuse" (troppo recente per giudicarlo).
