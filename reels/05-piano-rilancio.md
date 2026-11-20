@@ -129,3 +129,17 @@ Si parte solo quando profilo, highlight "Stress test" e i primi Reel sono online
 2. Strumento per prenotare le call
 3. Quante call a settimana può fare, e quanti nuovi clienti può seguire
 4. Video per l'analisi del tono
+
+---
+
+## Decisioni prese (20/11/2026)
+
+1. **Canale di contatto: WhatsApp.**
+   - Link in bio: wa.link **con il messaggio "START" già scritto**, così basta un tocco per inviarlo.
+   - Bio: ultima riga "👇 Scrivimi START su WhatsApp". La bio D resta sotto i 150 caratteri.
+   - Usare **WhatsApp Business**: risposte rapide per la sequenza di messaggi, etichette per le fasi (Nuovo · In conversazione · Call prenotata · Call fatta · Cliente · No). Le etichette sostituiscono buona parte del foglio di tracciamento.
+   - Nei Reel la CTA chiede di uscire da Instagram: più attrito rispetto a un DM. Da monitorare. Se pochi arrivano su WhatsApp, valutare "START in DM su Instagram → poi WhatsApp per la call".
+   - Sponsorizzazioni fase B: obiettivo **"Messaggi su WhatsApp"** (inserzioni click-to-WhatsApp). Richiede WhatsApp Business collegato alla pagina.
+2. **Strumento di prenotazione: nessuno per ora.** Due fasce fisse a settimana scelte dal coach. Su WhatsApp si propongono le due opzioni.
+3. **Capacità: 2 call a settimana** (~8-9 al mese), fino a **10 nuovi clienti**. Il collo di bottiglia saranno le call, non i clienti: se le richieste superano 2 call a settimana, stringere la selezione nei messaggi invece di aggiungere call.
+4. **Video per l'analisi del tono: troppo pesanti da caricare.** Alternativa: trascrizioni di 3-5 video (sottotitoli automatici di Instagram o CapCut, oppure note vocali trascritte) + un questionario breve su come parla in camera.
