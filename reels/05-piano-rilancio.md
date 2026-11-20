@@ -143,3 +143,13 @@ Si parte solo quando profilo, highlight "Stress test" e i primi Reel sono online
 2. **Strumento di prenotazione: nessuno per ora.** Due fasce fisse a settimana scelte dal coach. Su WhatsApp si propongono le due opzioni.
 3. **Capacità: 2 call a settimana** (~8-9 al mese), fino a **10 nuovi clienti**. Il collo di bottiglia saranno le call, non i clienti: se le richieste superano 2 call a settimana, stringere la selezione nei messaggi invece di aggiungere call.
 4. **Video per l'analisi del tono: troppo pesanti da caricare.** Alternativa: trascrizioni di 3-5 video (sottotitoli automatici di Instagram o CapCut, oppure note vocali trascritte) + un questionario breve su come parla in camera.
+
+### Aggiornamento decisioni (bio definitiva)
+- **Nome:** Dott. Luigi Aversano | Coach ex sportivi
+- **Bio definitiva:**
+  > Ex sportivo, oggi con lavoro e famiglia?
+  > Torna in forma senza vivere da atleta: un piano che regge anche le settimane storte.
+  > 👇 Scrivimi START in DM
+- **Contatto principale: START in DM su Instagram** (sostituisce la decisione "WhatsApp" per il primo contatto). Si passa su WhatsApp solo per fissare la call.
+- **Link wa.link in bio: resta**, come canale secondario per chi preferisce WhatsApp. Con il messaggio "START" già scritto, e su WhatsApp Business l'etichetta "Da bio", per contare i contatti di ogni canale.
+- Sponsorizzazioni fase B: obiettivo "Messaggi" su Instagram Direct.
