@@ -1,6 +1,6 @@
 # REEL #2 — "La mia storia: da judoka a 100 kg, e ritorno"
 
-Stato: **bozza v1**. Il tono reale del coach non è ancora stato analizzato. I dettagli tra [parentesi quadre] vanno confermati dal coach.
+Stato: **superata dalla v2** (`reel-02-la-mia-storia-v2.md`). Resta come riferimento per strategia, hook alternativi e controllo qualità.
 
 ## 1. Analisi strategica
 

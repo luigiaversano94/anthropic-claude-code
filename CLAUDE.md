@@ -27,8 +27,9 @@ Prima di scrivere script o proporre argomenti, leggi `reels/01-brief-cliente.md`
 7. **Piano di rilancio di 6 settimane** (`reels/05-piano-rilancio.md`): fondamenta, sequenza DM, struttura dello stress test, test delle sponsorizzazioni, misurazione. È il documento operativo di riferimento.
 
 **Prossimo passo:**
-1. **Analizzare i video del coach** (cartella fornita dall'utente, da copiare in `reels/video-tono/`). Estrarre: ritmo, lunghezza delle frasi, lessico, intercalari, uso dell'ironia, livello di energia, come apre e chiude i video, cosa funziona e cosa no in camera. Salvare l'analisi in `reels/video-tono/analisi-tono.md`.
-2. Ricontrollare sui documenti originali i dati che andranno a schermo (soprattutto il 64% ISTAT e i numeri presi da fonti secondarie).
-3. Scrivere i Reel prioritari nel tono reale del coach, e riadattare il Reel #1.
+1. **Tono:** profilo provvisorio in `reels/video-tono/analisi-tono.md` (dal questionario). Il coach parla **a braccio**: gli script vanno consegnati **a battute** (struttura + poche frasi parola per parola), senza sketch o recitazione comica. I video sono troppo pesanti da caricare: affinare il profilo con 3-5 trascrizioni appena disponibili.
+2. Reel #2 v2 consegnato (`reels/script/reel-02-la-mia-storia-v2.md`). Riscrivere a battute il Reel #1 e gli altri Reel della sequenza di rilancio.
+3. Ricontrollare sui documenti originali i dati che andranno a schermo (soprattutto il 64% ISTAT e i numeri presi da fonti secondarie).
+4. Decisioni prese: contatto su WhatsApp (START), 2 call a settimana su fasce fisse, capacità fino a 10 clienti (vedi `reels/05-piano-rilancio.md`).
 
 **In attesa dall'utente (facoltativo ma prezioso):** 5-10 frasi reali di clienti o potenziali clienti (DM, note delle call), anonimizzate, per validare le ipotesi sul linguaggio del pubblico.
