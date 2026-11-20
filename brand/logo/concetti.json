@@ -1,0 +1,125 @@
+{
+ "1": {
+  "slug": "concetto-1",
+  "name": "Q×A",
+  "idea": "La 'd' di QdA diventa la × della scheda di allenamento (3×10): il nome si scrive come una serie. E si legge anche Q&A, domande e risposte: quello che fa il profilo.",
+  "palette": [
+   [
+    "Blu cobalto",
+    "#1F33D6"
+   ],
+   [
+    "Lime",
+    "#D7FF3A"
+   ],
+   [
+    "Nero inchiostro",
+    "#14161A"
+   ],
+   [
+    "Bianco",
+    "#FFFFFF"
+   ]
+  ],
+  "light": {
+   "a": "#1F33D6",
+   "b": "#14161A",
+   "text": "#14161A"
+  },
+  "dark": {
+   "a": "#D7FF3A",
+   "b": "#FFFFFF",
+   "text": "#FFFFFF",
+   "bg": "#14161A"
+  },
+  "brand": {
+   "a": "#D7FF3A",
+   "b": "#FFFFFF",
+   "text": "#FFFFFF",
+   "bg": "#1F33D6"
+  },
+  "profile": "brand"
+ },
+ "2": {
+  "slug": "concetto-2",
+  "name": "La traccia",
+  "idea": "Il punto interrogativo è la traccia del movimento che si vede nella video-analisi degli esercizi: scia di punti, curva e marker di tracciamento al posto del punto.",
+  "palette": [
+   [
+    "Arancio segnale",
+    "#FF5A1F"
+   ],
+   [
+    "Arancio bruciato",
+    "#C93A0C"
+   ],
+   [
+    "Nero inchiostro",
+    "#14161A"
+   ],
+   [
+    "Bianco",
+    "#FFFFFF"
+   ]
+  ],
+  "light": {
+   "a": "#C93A0C",
+   "b": "#14161A",
+   "text": "#14161A"
+  },
+  "dark": {
+   "a": "#FF5A1F",
+   "b": "#FFFFFF",
+   "text": "#FFFFFF",
+   "bg": "#14161A"
+  },
+  "brand": {
+   "a": "#FF5A1F",
+   "b": "#FFFFFF",
+   "text": "#FFFFFF",
+   "bg": "#14161A"
+  },
+  "profile": "brand"
+ },
+ "3": {
+  "slug": "concetto-3",
+  "name": "?!",
+  "idea": "Domanda e risposta in un solo segno (interrobang): il ? è il dubbio con cui arrivi in sala, il ! è la risposta del trainer. Serio nella costruzione, ironico nel tono.",
+  "palette": [
+   [
+    "Giallo",
+    "#FFC400"
+   ],
+   [
+    "Viola",
+    "#5B3FE0"
+   ],
+   [
+    "Nero inchiostro",
+    "#14161A"
+   ],
+   [
+    "Bianco",
+    "#FFFFFF"
+   ]
+  ],
+  "light": {
+   "a": "#5B3FE0",
+   "b": "#14161A",
+   "text": "#14161A"
+  },
+  "dark": {
+   "a": "#FFC400",
+   "b": "#FFFFFF",
+   "text": "#FFFFFF",
+   "bg": "#14161A"
+  },
+  "brand": {
+   "a": "#FFC400",
+   "b": "#FFFFFF",
+   "text": "#FFFFFF",
+   "bg": "#14161A"
+  },
+  "profile": "brand"
+ }
+}
