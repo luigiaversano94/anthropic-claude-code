@@ -116,3 +116,9 @@ Data: 20/11/2026, da screenshot forniti dal coach.
 - **Costumi di Halloween:** non archiviare (3,7K visualizzazioni, 6 invii). La lezione è che l'intrattenimento legato alla cultura pop si diffonde: va riusato, ma collegato all'ex sportivo.
 - **Archiviare:** "Accettare il proprio corpo", "Non siamo fatti per vivere così", "Ogni giorno fai delle scelte".
 - **Rimandare:** "Sei allenatissimo nelle scuse" (troppo recente per giudicarlo).
+
+### Nota: il Reel "Seguimi sul profilo" (11K) è una sponsorizzazione
+- Va escluso dall'analisi organica. **Il miglior contenuto organico è il workshop FAT LOSS (8,4K).**
+- 11K visualizzazioni a pagamento, 59 like, 0 commenti, 0 invii: coinvolgimento basso, come spesso accade con il pubblico raggiunto a pagamento. Va giudicato dai risultati (follower, DM, call, costo), non dalle visualizzazioni.
+- Da verificare: se nei 90 giorni precedenti c'erano più sponsorizzazioni, il −50,9% di visualizzazioni può dipendere in parte da questo, e non solo dai contenuti.
+- Prossime sponsorizzazioni: obiettivo "messaggi" (START in DM), uomini 30-44, Italia, contenuto = Reel #2 o Reel #1. Policy Meta per salute e dimagrimento: niente prima/dopo, niente frasi che mettono in negativo il corpo di chi guarda, età minima 18.
