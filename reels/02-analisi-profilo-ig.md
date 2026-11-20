@@ -47,6 +47,11 @@ Data: 20/11/2026, da screenshot fornito dal coach.
 > Risultati che restano, anche quando smetti di essere seguito.
 > 👇 Scrivimi START in DM
 
+**Bio D (storia personale, aggiunta dopo aver conosciuto il percorso del coach):**
+> Ex judoka, da 100 a 80 kg con lavoro e impegni.
+> Aiuto ex sportivi a rimettersi in forma, anche nelle settimane peggiori.
+> 👇 Scrivimi START in DM
+
 **Highlight:** Stress test (nuovo) · Risultati · Clienti · Metodo · Chi sono
 
 **Post fissati:** Reel #1 "settimana peggiore" (manifesto) · Reel #16 "autonomia" · "Risultati reali" (da tenere). "Chi sono" e "Cosa faccio" passano negli highlight.
