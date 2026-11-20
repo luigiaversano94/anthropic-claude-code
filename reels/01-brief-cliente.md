@@ -8,6 +8,20 @@ Stato: aggiornato alla sessione del 19/11/2026. Tutto ciò che è marcato 💡 �
 - **Problema che risolve:** persone impegnate che rinunciano a rimettersi in forma. Dicono che è per il tempo, ma spesso il vero motivo è che non sanno gestirsi e temono che allenarsi e mangiare bene significhi **rinunciare a tutto**.
 - **Pubblico:** principalmente uomini 25-40 anni. Aperto anche alle donne.
 
+### Chi è il coach — Dott. Luigi Aversano (@luiave_coach, brand "Build What Stays")
+
+- **Formazione:** laurea in Farmacia, specializzazione in Farmacia ospedaliera, a breve laurea in Nutrizione umana.
+- **Certificazioni:** istruttore di allenamento funzionale (a 22 anni), istruttore di sala 1° livello (2017), 2° livello (2018), personal trainer FIF (2020).
+- **Passato sportivo:** judo dai 12 ai 22 anni, sala pesi in parallelo. **È lui stesso un ex sportivo (persona A).**
+- **Percorso fisico:** fisico morbido → definito (2014/15) → fino a 100 kg → oggi stabile intorno agli 80 kg con fisico estetico, nonostante lavoro e impegni, "senza troppi estremismi".
+- **Oggi:** matrimonio previsto a settembre 2027.
+
+**Implicazioni:**
+- La sua storia è la prova vivente del posizionamento: ex sportivo, ha perso la forma, l'ha ritrovata e la mantiene con una vita piena.
+- La laurea in Farmacia gli dà autorevolezza unica su integratori e farmaci per il dimagrimento (es. GLP-1). Va usata in chiave educativa, mai come consiglio medico.
+- ⚠️ **Compliance:** in Italia l'elaborazione di piani alimentari personalizzati è riservata a specifiche professioni (es. biologo nutrizionista, dietista, medico). Finché non ha l'abilitazione, nella comunicazione la parte alimentare va presentata come educazione e abitudini, non come "dieta". Da verificare con l'ordine professionale di riferimento.
+- Il matrimonio di settembre 2027 è un'opportunità per una serie documentaria sul mantenimento senza estremismi.
+
 ### Offerta
 
 | Piano | Prezzo | Equivalente mensile |
