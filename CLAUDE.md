@@ -21,6 +21,8 @@ Prima di scrivere script o proporre argomenti, leggi `reels/01-brief-cliente.md`
 1. Contestualizzazione e brief cliente
 2. Reel #1 "Progetta per la settimana peggiore" (bozza v1, scritta prima di conoscere il tono reale)
 3. Ricerca di mercato sul target A "ex sportivo": 18 argomenti, priorità di partenza #8, #12, #3, #1, #9
+4. Analisi del profilo Instagram e proposte di bio (`reels/02-analisi-profilo-ig.md`)
+5. Reel #2 "La mia storia" (bozza v1, dettagli da confermare)
 
 **Prossimo passo:**
 1. **Analizzare i video del coach** (cartella fornita dall'utente, da copiare in `reels/video-tono/`). Estrarre: ritmo, lunghezza delle frasi, lessico, intercalari, uso dell'ironia, livello di energia, come apre e chiude i video, cosa funziona e cosa no in camera. Salvare l'analisi in `reels/video-tono/analisi-tono.md`.
